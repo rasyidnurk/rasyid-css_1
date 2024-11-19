@@ -1,0 +1,20 @@
+h1{
+    font-family: arial,verdana,sans-serif;
+    font-size: 100px;
+    font-variant: small-caps;
+    font-style: italic;
+    color: skyblue;
+}
+p{
+    font-family: georgia,serif;
+    line-height: 25px;
+    text-indent: 50px;
+    text-transform: uppercase;
+    word-spacing: normal;
+}
+body{
+    background-color: white;
+    background-image: url(download.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
